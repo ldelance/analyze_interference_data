@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "The purpose of this file is to correctly link the paper to the code."
+authors:
+  - family-names: Delance
+    given-names: Lea
+    orcid: https://orcid.org/0000-0002-3363-120X
+title: "Analyze interferometric data from colored images''"
+version: 1.0.0
+date-released: 2023-07-21
+url: "https://github.com/ldelance/analyze_interference_data"
