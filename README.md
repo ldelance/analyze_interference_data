@@ -6,3 +6,6 @@ Developed for suspended thin liquid films in air but could be adapted for any ki
 It requires : sensor sensitivity of the camera and lamp.
 
 For more information, see the documentation file.
+
+Author: Léa Delance 
+September 2023
