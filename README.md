@@ -8,4 +8,5 @@ It requires : sensor sensitivity of the camera and lamp.
 For more information, see the documentation file.
 
 Author: Léa Delance 
+
 September 2023
